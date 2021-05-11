@@ -1,2 +1,2 @@
 # renovate-config
-Shareable renovate config presets for graphql-java-kickstart projects
+[Shareable renovate bot config presets](https://docs.renovatebot.com/config-presets/) for graphql-java-kickstart projects
