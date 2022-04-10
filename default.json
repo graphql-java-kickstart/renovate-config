@@ -24,7 +24,7 @@
       "allowedVersions": "<=0.9.11"
     },
     {
-      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "matchUpdateTypes": ["patch", "pin", "digest"],
       "automerge": true
     }
   ]
